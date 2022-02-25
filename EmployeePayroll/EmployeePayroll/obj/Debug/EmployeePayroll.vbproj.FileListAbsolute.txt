@@ -1,0 +1,11 @@
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.vbprojResolveAssemblyReference.cache
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.frmEmployeePayroll.resources
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.Resources.resources
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.vbproj.GenerateResource.Cache
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\bin\Debug\EmployeePayroll.exe.config
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\bin\Debug\EmployeePayroll.exe
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\bin\Debug\EmployeePayroll.pdb
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\bin\Debug\EmployeePayroll.xml
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.exe
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.xml
+c:\users\student\documents\visual studio 2017\Projects\EmployeePayroll\EmployeePayroll\obj\Debug\EmployeePayroll.pdb
